@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi! I'm Ruslan!
+Junior .NET C# developer  
+I am a 3rd year student at a technical university, specializing in backend development, writing clean and optimized code.
+---
+## 🚀 My Tech Stack
+**Languages & Platforms**
+- .NET 8 / .NET 9 / .NET Framework
+- C#
+- HTML / CSS
 
-<!--
-**zyzz2023/zyzz2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-end**
+- ASP.NET Core
+- RESTful API
 
-Here are some ideas to get you started:
+**Front-end / UI**
+- WPF
+- WinForms
+- Razor Pages
+- Blazor Web Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Architecture & Patterns**
+- Clean Architecture
+- DDD (Domain-Driven Design)
+- MVVM
+
+**Databases**
+- Entity Framework Core
+- PostgreSQL
+- LocalDB
+- SQLite
+
+**Tools**
+- Git / GitHub
