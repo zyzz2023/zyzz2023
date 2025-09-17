@@ -1,5 +1,6 @@
 # 👋 Hi! I'm Ruslan! Junior .NET C# developer 
 I am a 3rd year student at a technical university, specializing in backend development, writing clean and optimized code.
+
 ---
 ## 🚀 My technology stack
 **Languages & Platforms**
