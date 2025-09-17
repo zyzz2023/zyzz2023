@@ -12,14 +12,14 @@ I am a 3rd year student at a technical university, specializing in backend devel
 - WPF
 - WinForms
 - Razor Pages
-- Blazor Web Server
+- Blazor
 
 **Architecture & Patterns**
 - Clean Architecture
 - DDD (Domain-Driven Design)
 - MVVM
 - RESTful API
-- 
+
 **Databases**
 - Entity Framework Core
 - PostgreSQL
