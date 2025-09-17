@@ -1,16 +1,12 @@
 # 👋 Hi! I'm Ruslan! Junior .NET C# developer 
----
 I am a 3rd year student at a technical university, specializing in backend development, writing clean and optimized code.
 ---
-## 🚀 My Tech Stack
+## 🚀 My technology stack
 **Languages & Platforms**
 - .NET 8 / .NET 9 / .NET Framework
 - C#
 - HTML / CSS
-
-**Back-end**
 - ASP.NET Core
-- RESTful API
 
 **Front-end / UI**
 - WPF
@@ -22,7 +18,8 @@ I am a 3rd year student at a technical university, specializing in backend devel
 - Clean Architecture
 - DDD (Domain-Driven Design)
 - MVVM
-
+- RESTful API
+- 
 **Databases**
 - Entity Framework Core
 - PostgreSQL
@@ -31,3 +28,4 @@ I am a 3rd year student at a technical university, specializing in backend devel
 
 **Tools**
 - Git / GitHub
+- Bootstrap
